@@ -3,7 +3,6 @@
 
 ### I'm CNPolaris 
 🔭 I’m currently studing in ZhenJiang, China  
-👯 Currently working in ZhenJiang, China  
 🤔 I love Watching  Movie   
 📫 How to reach me: cntianxin@outlook.com   
 😄 You may like My Blog: https://www.cnblogs.com/cnpolaris/     
