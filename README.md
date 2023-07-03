@@ -10,8 +10,6 @@
 ⚡ Fun fact: Movie     
 
 ### About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNPolaris)](https://github.com/CNPolaris/github-readme-stats)
-
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNPolaris&show_icons=true&theme=tokyonight)
 <!--
 **CNPolaris/CNPolaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
