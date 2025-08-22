@@ -1,6 +1,3 @@
-### Hello World 👋
-![Visitor Count](https://profile-counter.glitch.me/CNPolaris/count.svg)
-
 ### I'm CNPolaris 
 🔭 I’m currently studing in ZhenJiang, China  
 🤔 I love Watching  Movie   
